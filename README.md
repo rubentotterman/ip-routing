@@ -1,6 +1,6 @@
 ip-routing
 
-![Lab Topology](insert-your-topology-image-link-here)
+![Lab Topology](img.png)
 
 Routing Fundamentals Lab – Static, Summary & Default Routing
 
